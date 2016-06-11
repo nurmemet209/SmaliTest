@@ -15,7 +15,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-```
+
+
+/*smali 代码*/
+/*
+
+
 
 .class public Lcom/example/nurmemet/smalltest/MainActivity;
 .super Landroid/support/v7/app/AppCompatActivity;
@@ -51,3 +56,12 @@ public class MainActivity extends AppCompatActivity {
     .line 12
     return-void
 .end method
+
+
+
+
+
+*/
+
+```
+
