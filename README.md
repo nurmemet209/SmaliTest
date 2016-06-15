@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-
-
+```
+```smali
 /*smali 代码*/
 /*
 //完整的类名称
@@ -97,10 +97,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.println(a);
     }
 }
+```
 
 
-
-
+```smali
 
 .class public Lcom/example/nurmemet/smalltest/MainActivity;
 .super Landroid/support/v7/app/AppCompatActivity;
